@@ -1,4 +1,4 @@
-# Project Name: iEXCHANGE (Currency Converter)
+# iEXCHANGE (Currency Converter)
 
 ## Product Category
 Finance
@@ -8,3 +8,6 @@ Calculate currency and foreign exchange rates with iEXCHANGE. Choose the currenc
 
 ## Live Demo
 https://iexchange.netlify.app/
+
+## API
+Exchange-Rate API
