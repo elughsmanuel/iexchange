@@ -9,5 +9,5 @@ Calculate currency and foreign exchange rates with iEXCHANGE. Choose the currenc
 ## Live Demo
 https://iexchange.netlify.app/
 
-### API
+## API
 Exchange-Rate API
