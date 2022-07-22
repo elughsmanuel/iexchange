@@ -7,7 +7,7 @@ Finance
 Calculate currency and foreign exchange rates with iEXCHANGE. Choose the currency and the amount to get the exchange rate.
 
 ## Live Demo
-https://iexchange.netlify.app/
+- [iEXCHANGE](https://iexchange.netlify.app/)
 
 ## API
 Exchange-Rate API
