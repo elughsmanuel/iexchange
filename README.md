@@ -11,3 +11,4 @@ Calculate currency and foreign exchange rates with iEXCHANGE. Choose the currenc
 
 ## API
 Exchange-Rate API
+
